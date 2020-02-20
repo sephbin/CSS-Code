@@ -7,7 +7,7 @@ master_css = r'''
 re.search(r"\bB\b",d["class"]){X:10; Y:11; Z:12;}
 d["area"] > 300{hello:world;}
 '''
-
+#http://kartinl.pythonanywhere.com/lib/choosething/Wall/0/Brown/colour/
 # master_css = r'''
 # "B" in d["class"] and  "ROOF" in d["class"]{Z:GLASS CEILING; k:call(http:\\www.google.com)}
 # '''
